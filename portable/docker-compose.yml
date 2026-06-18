@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   ganglia:
-    image: cdac_ganglia:alma8  # Replace with your image name and tag
+    image: cdac_ganglia/rocky9.6:3.7  # Replace with your image name and tag
     container_name: ganglia
     environment:
       - PORT=${PORT}

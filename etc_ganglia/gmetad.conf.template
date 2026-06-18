@@ -240,4 +240,3 @@ case_sensitive_hostnames 0
 # riemann_attributes "key=val[,...]"
 # riemann_attributes "customer=Acme Corp,environment=PROD"
 
-You have new mail in /var/spool/mail/root
